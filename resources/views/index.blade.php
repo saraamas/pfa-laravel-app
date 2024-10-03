@@ -184,7 +184,7 @@
 		<div class="col-md-12">
 
 			<div class="title-hd">
-				<h2>Latest FILMS</h2>
+				<h2>Latest BEST FILMS </h2>
 				<a href="#" class="viewall">View all <i class="ion-ios-arrow-right"></i></a>
 			</div>
 			<div class="tabs">
